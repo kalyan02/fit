@@ -23,3 +23,7 @@ require (
 	honnef.co/go/tools v0.0.0-20190418001031-e561f6794a2a
 	mvdan.cc/gofumpt v0.0.0-20190427031043-b295af7664cd
 )
+
+replace (
+	mvdan.cc/gofumpt v0.5.0 => github.com/mvdan/gofumpt v0.5.0
+)
