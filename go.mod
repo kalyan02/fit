@@ -1,4 +1,5 @@
-module github.com/tormoder/fit
+//module github.com/tormoder/fit
+module github.com/kalyan02/fit
 
 go 1.15
 
