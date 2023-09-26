@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/tormoder/fit/dyncrc16"
+	"github.com/kalyan02/fit/dyncrc16"
 )
 
 var decodeHeaderTests = []struct {

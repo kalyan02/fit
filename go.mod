@@ -1,4 +1,4 @@
-//module github.com/tormoder/fit
+//module github.com/kalyan02/fit
 module github.com/kalyan02/fit
 
 go 1.15
@@ -12,7 +12,6 @@ require (
 	github.com/kortschak/utter v0.0.0-20180609113506-364ec7d7a8f4
 	github.com/mdempsky/unconvert v0.0.0-20200228143138-95ecdbfc0b5f
 	github.com/tealeg/xlsx v1.0.3
-	github.com/tormoder/fit v0.14.0
 	golang.org/x/lint v0.0.0-20190409202823-959b441ac422
 	golang.org/x/tools v0.1.11
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect

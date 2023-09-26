@@ -12,8 +12,8 @@ import (
 	"strconv"
 
 	"github.com/cespare/xxhash"
+	"github.com/kalyan02/fit"
 	"github.com/kortschak/utter"
-	"github.com/tormoder/fit"
 )
 
 func fitFingerprint(fit *fit.File) uint64 {

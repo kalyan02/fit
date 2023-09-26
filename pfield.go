@@ -3,7 +3,7 @@ package fit
 import (
 	"fmt"
 
-	"github.com/tormoder/fit/internal/types"
+	"github.com/kalyan02/fit/internal/types"
 )
 
 // field represents a fit message field in the profile field lookup table.

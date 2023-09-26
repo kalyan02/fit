@@ -11,7 +11,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/tormoder/fit/internal/types"
+	"github.com/kalyan02/fit/internal/types"
 )
 
 type codeGenerator struct {
@@ -631,7 +631,7 @@ func (g *codeGenerator) genProfile(types map[string]*Type, msgs []*Msg) {
 	g.p("import (")
 	g.p("\"reflect\"")
 	g.p()
-	g.p("\"github.com/tormoder/fit/internal/types\"")
+	g.p("\"github.com/kalyan02/fit/internal/types\"")
 	g.p(")")
 
 	g.genVersionConsts()

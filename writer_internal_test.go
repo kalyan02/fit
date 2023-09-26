@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tormoder/fit/internal/types"
+	"github.com/kalyan02/fit/internal/types"
 )
 
 func TestEncodeWriteField(t *testing.T) {
